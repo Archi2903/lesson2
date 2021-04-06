@@ -1,0 +1,40 @@
+body{
+    background-color: #51514f;
+}
+h1{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    font-family: cursive;
+
+}
+
+table{
+    border-collapse: collapse;
+    border: 5px  lightslategrey;
+    background-color: azure;
+
+
+}
+tr{
+    border-collapse: collapse;
+    border: 2px solid lightslategrey;
+    background-color: azure;
+
+}
+td{
+    border-collapse: collapse;
+    border: 2px solid lightslategrey;
+    background-color: azure;
+    text-align: center;
+    font-family: cursive;
+}
+
+.solution{
+    text-align: center;
+}
